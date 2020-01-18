@@ -62,7 +62,7 @@
       <li class="nav-item">
         <a class="nav-link" href="charts.html">
           <i class="fas fa-fw fa-user"></i>
-          <span>Profile</span></a>
+          <span>Profiles</span></a>
       </li>
 
       <!-- Divider -->
