@@ -27,7 +27,7 @@
                   </div>
                 </div>
                 <button type="submit" class="btn btn-success btn-user btn-block">
-                  Register Account
+                  Register Accounts
                 </button>
               </form>
               <hr>
